@@ -132,10 +132,6 @@ This project was created as part of a CloudQA developer internship application. 
 
 This project is created for educational and demonstration purposes.
 
-## 📞 Contact
-
-Created for CloudQA Developer Internship Application - 2024
-
 ---
 
 *This automation solution demonstrates best practices in web testing with Selenium, focusing on maintainability and resilience to UI changes.*
